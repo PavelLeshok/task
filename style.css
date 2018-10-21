@@ -1,0 +1,23 @@
+body{
+    background: #C0C0C0
+}
+#container{
+    height: 50px;
+    width: 300px;
+    background: #C0C0C0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    margin: auto
+
+}
+
+button{
+    width: 90px;
+    height: 40px;
+    
+}
+
+#header{
+color: red;
+}
